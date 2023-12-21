@@ -1,0 +1,2 @@
+Strogonof;23456;false;1;1;1
+Bolo;12345;false;2;2;2

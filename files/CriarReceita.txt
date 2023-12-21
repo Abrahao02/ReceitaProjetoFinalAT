@@ -1,0 +1,7 @@
+P;Receita blabla ;true;
+B;Leite;20;1000;400
+B;Ovo;20;30;15
+P;Receita blabla bla;true;
+B;Creme de Leite;8;1;5
+B;Frango;35;1000;350
+B;champion;20;1;1;

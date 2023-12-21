@@ -1,0 +1,2 @@
+Descrição da Receita;true;Nome da Receita;123;true;1;Ingrediente1;10.5;100;50;Ingrediente2;5.0;200;25
+Outra Descrição;false;Outro Nome;456;false;2;Ingrediente3;8.0;150;75;Ingrediente4;3.5;120;60

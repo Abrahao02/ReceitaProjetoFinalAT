@@ -1,0 +1,6 @@
+Leite;20;1000;400
+Ovo;20;30;15
+Frango;35;1000;350
+champion;20;1;1;
+Creme de Leite;8;1;5
+chocolate;10;1;1
